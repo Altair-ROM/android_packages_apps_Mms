@@ -2,7 +2,7 @@
 <resources>
     <style name="TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:textColorHighlight">#FFFF9200</item>
+        <item name="android:textColorHighlight">#FF00AAFF</item>
         <item name="android:textColorHint">?android:textColorHint</item>
         <item name="android:textColorLink">#5C5CFF</item>
         <item name="android:textSize">16sp</item>
